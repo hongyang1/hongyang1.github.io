@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://hongyang1.github.io/authors/</loc>
+    <loc>https://hongyang1.github.io/en/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,16 +19,16 @@
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://hongyang1.github.io/zh-cn/authors/"
+      href="https://hongyang1.github.io/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://hongyang1.github.io/authors/"
+      href="https://hongyang1.github.io/en/authors/"
     />
   </url>
   <url>
-    <loc>https://hongyang1.github.io/</loc>
+    <loc>https://hongyang1.github.io/en/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -44,16 +44,16 @@
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://hongyang1.github.io/zh-cn/"
+      href="https://hongyang1.github.io/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://hongyang1.github.io/"
+      href="https://hongyang1.github.io/en/"
     />
   </url>
   <url>
-    <loc>https://hongyang1.github.io/categories/</loc>
+    <loc>https://hongyang1.github.io/en/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -69,16 +69,16 @@
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://hongyang1.github.io/zh-cn/categories/"
+      href="https://hongyang1.github.io/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://hongyang1.github.io/categories/"
+      href="https://hongyang1.github.io/en/categories/"
     />
   </url>
   <url>
-    <loc>https://hongyang1.github.io/series/</loc>
+    <loc>https://hongyang1.github.io/en/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -94,16 +94,16 @@
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://hongyang1.github.io/zh-cn/series/"
+      href="https://hongyang1.github.io/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://hongyang1.github.io/series/"
+      href="https://hongyang1.github.io/en/series/"
     />
   </url>
   <url>
-    <loc>https://hongyang1.github.io/tags/</loc>
+    <loc>https://hongyang1.github.io/en/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -119,12 +119,12 @@
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://hongyang1.github.io/zh-cn/tags/"
+      href="https://hongyang1.github.io/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://hongyang1.github.io/tags/"
+      href="https://hongyang1.github.io/en/tags/"
     />
   </url>
 </urlset>

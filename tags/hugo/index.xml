@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 秋实的Blog</title>
+    <link>https://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on 秋实的Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 秋实</copyright>
+    <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo&#43;nginx搭建blog记录</title>
+      <link>https://localhost:1313/docs/hugo/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/docs/hugo/</guid>
+      <description>搭建环境 # 系统: Ubuntu 22.04.3 LTS hugo版本：hugo_extende</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/hugo/feature1.jpg" />
+    </item>
+    
+  </channel>
+</rss>

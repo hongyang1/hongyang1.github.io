@@ -2,30 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>配置 on 秋实的Blog</title>
-    <link>https://localhost:1313/tags/%E9%85%8D%E7%BD%AE/</link>
+    <link>http://localhost:1313/tags/%E9%85%8D%E7%BD%AE/</link>
     <description>Recent content in 配置 on 秋实的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 秋实</copyright>
-    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/%E9%85%8D%E7%BD%AE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E9%85%8D%E7%BD%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>快速安装k8s集群（v1.29）</title>
+      <link>http://localhost:1313/docs/%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85k8sv1.29/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85k8sv1.29/</guid>
+      <description>系统环境 # 系统: Ubuntu 24.0.1 LTS k8s版本： v1.29.11 calico版本： v3.29 实验</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85k8sv1.29/feature1.jpg" />
+    </item>
+    
     <item>
       <title>Prometheus二进制安装</title>
-      <link>https://localhost:1313/docs/prometheus-%E5%AE%89%E8%A3%85/</link>
+      <link>http://localhost:1313/docs/prometheus-%E5%AE%89%E8%A3%85/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/docs/prometheus-%E5%AE%89%E8%A3%85/</guid>
+      <guid>http://localhost:1313/docs/prometheus-%E5%AE%89%E8%A3%85/</guid>
       <description>系统环境 # 系统: Ubuntu 24.0.1 LTS Prometheus版本: 2.54.1 下载Pro</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/prometheus-%E5%AE%89%E8%A3%85/feature1.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/prometheus-%E5%AE%89%E8%A3%85/feature1.jpg" />
     </item>
     
     <item>
       <title>Ubuntu24.0.1 初始配置</title>
-      <link>https://localhost:1313/docs/ubuntu24.0.1%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE/</link>
+      <link>http://localhost:1313/docs/ubuntu24.0.1%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/docs/ubuntu24.0.1%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE/</guid>
+      <guid>http://localhost:1313/docs/ubuntu24.0.1%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE/</guid>
       <description>系统环境 # 系统: Ubuntu 24.0.1 LTS 设置root密码 # sudo -i #切root passwd 设</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/ubuntu24.0.1%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE/feature1.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/ubuntu24.0.1%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE/feature1.jpg" />
     </item>
     
   </channel>

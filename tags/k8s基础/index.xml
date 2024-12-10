@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K8S基础 on 秋实的Blog</title>
+    <link>http://localhost:1313/tags/k8s%E5%9F%BA%E7%A1%80/</link>
+    <description>Recent content in K8S基础 on 秋实的Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 秋实</copyright>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/k8s%E5%9F%BA%E7%A1%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>快速安装k8s集群（v1.29）</title>
+      <link>http://localhost:1313/docs/%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85k8sv1.29/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85k8sv1.29/</guid>
+      <description>系统环境 # 系统: Ubuntu 24.0.1 LTS k8s版本： v1.29.11 calico版本： v3.29 实验</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85k8sv1.29/feature1.jpg" />
+    </item>
+    
+    <item>
+      <title>1.K8S基础知识-组件</title>
+      <link>http://localhost:1313/docs/1.k8s%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5-%E7%BB%84%E4%BB%B6/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/1.k8s%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5-%E7%BB%84%E4%BB%B6/</guid>
+      <description>什么是K8S? # Kubernetes是容器集群管理系统，是一</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/1.k8s%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5-%E7%BB%84%E4%BB%B6/feature1.jpg" />
+    </item>
+    
+    <item>
+      <title>2.K8S基础知识-对象</title>
+      <link>http://localhost:1313/docs/2.k8s%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5-%E5%AF%B9%E8%B1%A1/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/2.k8s%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5-%E5%AF%B9%E8%B1%A1/</guid>
+      <description>Kubernetes对象 # Kubernetes对象是Kube</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/2.k8s%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5-%E5%AF%B9%E8%B1%A1/feature1.jpg" />
+    </item>
+    
+  </channel>
+</rss>

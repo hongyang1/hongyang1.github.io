@@ -3,256 +3,292 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://localhost:1313/docs/5.prometheus-%E5%B8%B8%E8%A7%81%E6%9F%A5%E8%AF%A2%E6%8C%87%E4%BB%A4%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/docs/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/k8s/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/prometheus/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/k8s%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/prometheus%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/tags/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/tags/"
+      href="http://localhost:1313/en/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/"
+      href="http://localhost:1313/it/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/"
+      href="http://localhost:1313/ja/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/tags/"
+      href="http://localhost:1313/tags/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/docs/%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85k8sv1.29/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/"
+      href="http://localhost:1313/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/"
+      href="http://localhost:1313/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/"
+      href="http://localhost:1313/ja/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/"
+      href="http://localhost:1313/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E9%80%9F%E6%9F%A5/</loc>
+    <loc>http://localhost:1313/docs/1.k8s%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5-%E7%BB%84%E4%BB%B6/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/docs/2.k8s%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5-%E5%AF%B9%E8%B1%A1/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/docs/6.node_exporter%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/prometheus/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/prometheus%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/docs/5.prometheus-%E5%B8%B8%E8%A7%81%E6%9F%A5%E8%AF%A2%E6%8C%87%E4%BB%A4%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/4.prometheus-%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/</loc>
+    <loc>http://localhost:1313/tags/%E9%80%9F%E6%9F%A5/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/docs/4.prometheus-%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/3.prometheus-%E9%AB%98%E9%A2%91%E4%BF%AE%E6%94%B9%E7%9A%84%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0%E8%A7%A3%E8%AF%BB/</loc>
+    <loc>http://localhost:1313/docs/3.prometheus-%E9%AB%98%E9%A2%91%E4%BF%AE%E6%94%B9%E7%9A%84%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0%E8%A7%A3%E8%AF%BB/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/2.prometheus%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-%E8%A7%A3%E6%9E%90/</loc>
+    <loc>http://localhost:1313/docs/2.prometheus%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-%E8%A7%A3%E6%9E%90/</loc>
     <lastmod>2024-09-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/1.prometheus%E5%88%9D%E5%A7%8B%E9%A1%B5%E9%9D%A2%E4%BB%8B%E7%BB%8D/</loc>
+    <loc>http://localhost:1313/docs/1.prometheus%E5%88%9D%E5%A7%8B%E9%A1%B5%E9%9D%A2%E4%BB%8B%E7%BB%8D/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/prometheus-%E5%AE%89%E8%A3%85/</loc>
+    <loc>http://localhost:1313/docs/prometheus-%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/tags/ubuntu/</loc>
+    <loc>http://localhost:1313/tags/ubuntu/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/ubuntu24.0.1%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE/</loc>
+    <loc>http://localhost:1313/docs/ubuntu24.0.1%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/docker/</loc>
+    <loc>http://localhost:1313/tags/docker/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/docker%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    <loc>http://localhost:1313/docs/docker%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/powershell/</loc>
+    <loc>http://localhost:1313/tags/powershell/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/windows/</loc>
+    <loc>http://localhost:1313/tags/windows/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/%E5%9F%9F%E6%8E%A7/</loc>
+    <loc>http://localhost:1313/tags/%E5%9F%9F%E6%8E%A7/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/%E5%9F%9F%E6%8E%A7%E4%B8%8B%E5%8F%91%E8%84%9A%E6%9C%AC%E7%AD%96%E7%95%A5%E8%B7%B3%E8%BF%87%E7%AE%A1%E7%90%86%E5%91%98%E5%AF%86%E7%A0%81%E5%BC%B9%E7%AA%97%E8%AE%A4%E8%AF%81/</loc>
+    <loc>http://localhost:1313/docs/%E5%9F%9F%E6%8E%A7%E4%B8%8B%E5%8F%91%E8%84%9A%E6%9C%AC%E7%AD%96%E7%95%A5%E8%B7%B3%E8%BF%87%E7%AE%A1%E7%90%86%E5%91%98%E5%AF%86%E7%A0%81%E5%BC%B9%E7%AA%97%E8%AE%A4%E8%AF%81/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2024-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/hugo/</loc>
+    <loc>http://localhost:1313/docs/hugo/</loc>
     <lastmod>2024-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/authors/"
+      href="http://localhost:1313/en/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/authors/"
+      href="http://localhost:1313/it/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/authors/"
+      href="http://localhost:1313/ja/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/authors/"
+      href="http://localhost:1313/authors/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/categories/"
+      href="http://localhost:1313/en/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/categories/"
+      href="http://localhost:1313/it/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/categories/"
+      href="http://localhost:1313/ja/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/categories/"
+      href="http://localhost:1313/categories/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/en/series/"
+      href="http://localhost:1313/en/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/series/"
+      href="http://localhost:1313/it/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/series/"
+      href="http://localhost:1313/ja/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/series/"
+      href="http://localhost:1313/series/"
     />
   </url>
 </urlset>

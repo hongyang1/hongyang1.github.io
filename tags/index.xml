@@ -2,108 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 秋实的Blog</title>
-    <link>https://localhost:1313/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 秋实的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 秋实</copyright>
-    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prometheus</title>
-      <link>https://localhost:1313/tags/prometheus/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <title>K8S</title>
+      <link>http://localhost:1313/tags/k8s/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/prometheus/</guid>
+      <guid>http://localhost:1313/tags/k8s/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Prometheus基础</title>
-      <link>https://localhost:1313/tags/prometheus%E5%9F%BA%E7%A1%80/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <title>K8S基础</title>
+      <link>http://localhost:1313/tags/k8s%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/prometheus%E5%9F%BA%E7%A1%80/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>速查</title>
-      <link>https://localhost:1313/tags/%E9%80%9F%E6%9F%A5/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://localhost:1313/tags/%E9%80%9F%E6%9F%A5/</guid>
+      <guid>http://localhost:1313/tags/k8s%E5%9F%BA%E7%A1%80/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>配置</title>
-      <link>https://localhost:1313/tags/%E9%85%8D%E7%BD%AE/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/%E9%85%8D%E7%BD%AE/</guid>
+      <guid>http://localhost:1313/tags/%E9%85%8D%E7%BD%AE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Prometheus</title>
+      <link>http://localhost:1313/tags/prometheus/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/prometheus/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Prometheus基础</title>
+      <link>http://localhost:1313/tags/prometheus%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/prometheus%E5%9F%BA%E7%A1%80/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>速查</title>
+      <link>http://localhost:1313/tags/%E9%80%9F%E6%9F%A5/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E9%80%9F%E6%9F%A5/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ubuntu</title>
-      <link>https://localhost:1313/tags/ubuntu/</link>
+      <link>http://localhost:1313/tags/ubuntu/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/ubuntu/</guid>
+      <guid>http://localhost:1313/tags/ubuntu/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://localhost:1313/tags/docker/</link>
+      <link>http://localhost:1313/tags/docker/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/docker/</guid>
+      <guid>http://localhost:1313/tags/docker/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Powershell</title>
-      <link>https://localhost:1313/tags/powershell/</link>
+      <link>http://localhost:1313/tags/powershell/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/powershell/</guid>
+      <guid>http://localhost:1313/tags/powershell/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Windows</title>
-      <link>https://localhost:1313/tags/windows/</link>
+      <link>http://localhost:1313/tags/windows/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/windows/</guid>
+      <guid>http://localhost:1313/tags/windows/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>域控</title>
-      <link>https://localhost:1313/tags/%E5%9F%9F%E6%8E%A7/</link>
+      <link>http://localhost:1313/tags/%E5%9F%9F%E6%8E%A7/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/%E5%9F%9F%E6%8E%A7/</guid>
+      <guid>http://localhost:1313/tags/%E5%9F%9F%E6%8E%A7/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://localhost:1313/tags/hugo/</link>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
       
     </item>
